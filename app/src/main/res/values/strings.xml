@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Servicios</string>
+    <string name="servicioHilo">Principal Thread</string>
+    <string name="intentService">IntentService</string>
+    <string name="servicetopSelf">Stopself</string>
+    <string name="latitudLongitud">Latitud y Longitud:</string>
+</resources>
